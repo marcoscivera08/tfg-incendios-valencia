@@ -131,7 +131,7 @@ Reproduce todo el experimento: descarga, enriquecimiento, entrenamiento y export
    - Registro EGIF de incendios forestales 2010–2022 — [datos abiertos del MITECO](https://www.miteco.gob.es/es/biodiversidad/temas/incendios-forestales/estadisticas-datos.html)
    - Cartografía COSCV 2024 — [Institut Cartogràfic Valencià](https://icv.gva.es/)
    <!-- TODO: indica aquí los nombres exactos de archivo que esperan los scripts -->
-2. **API key gratuita de [AEMET OpenData](https://opendata.aemet.es/centrodedescargas/altaUsuario)**, guardada en `datos/APIs/api_AEMET.txt` (una sola línea con la clave). Esta ruta está en `.gitignore`: **nunca subas tu clave al repositorio**.
+2. **API key gratuita de [AEMET OpenData](https://opendata.aemet.es/centrodedescargas/altaUsuario)**, guardada en `datos/APIs/api_AEMET.txt` (una sola línea con la clave). Esta ruta está en `.gitignore`.
 
 ERA5 (Open-Meteo) y SRTM (Open Topo Data) son APIs abiertas y no requieren clave.
 
@@ -199,5 +199,5 @@ Python · pandas · GeoPandas · pyproj · scikit-learn · LightGBM · XGBoost �
 **Marcos Civera García** — Graduado en Ciencia de Datos (Universitat de València)
 Tutor: Antonio Manuel López Quílez
 
-[LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · [Email](mailto:TU-EMAIL)
+[LinkedIn](www.linkedin.com/in/marcos-civera-garcia) · [Email](mailto:marcoscivera08@gmail.com)
 <!-- Rellena tus enlaces. Si subes la memoria en PDF a docs/, enlázala aquí: [Memoria completa (PDF)](docs/memoria_TFG.pdf) -->
