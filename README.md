@@ -1,3 +1,4 @@
+<img width="1915" height="911" alt="dashboard_vista_general" src="https://github.com/user-attachments/assets/7fd5d6a6-3f6f-42aa-9dec-06f34fd10550" />
 # 🔥 Predicción de susceptibilidad de incendios forestales en la Comunitat Valenciana
 
 **Pipeline de datos multifuente + LightGBM + explicabilidad SHAP + dashboard en Streamlit.**
