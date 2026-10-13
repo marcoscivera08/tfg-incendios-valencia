@@ -1,4 +1,4 @@
-<img width="1915" height="911" alt="dashboard_vista_general" src="https://github.com/user-attachments/assets/7fd5d6a6-3f6f-42aa-9dec-06f34fd10550" />
+
 # 🔥 Predicción de susceptibilidad de incendios forestales en la Comunitat Valenciana
 
 **Pipeline de datos multifuente + LightGBM + explicabilidad SHAP + dashboard en Streamlit.**
@@ -14,8 +14,9 @@ Trabajo Fin de Grado en Ciencia de Datos · Universitat de València (ETSE) · C
 [![Abrir demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TU-APP.streamlit.app)
 -->
 
-![Dashboard](docs/img/dashboard.png)
-<!-- Sube una captura o un GIF corto del dashboard a docs/img/ con este nombre -->
+<img width="1915" height="911" alt="dashboard_vista_general" src="https://github.com/user-attachments/assets/7fd5d6a6-3f6f-42aa-9dec-06f34fd10550" /> 
+<img width="1917" height="920" alt="dashboard_mapa_historico" src="https://github.com/user-attachments/assets/2c36da1a-3ce3-4c52-80e5-08d90a92aae1" />
+
 
 > **In English:** End-to-end ML system that estimates daily wildfire ignition susceptibility across the Valencian Community (Spain). It merges 4,476 official fire records (2010–2022) with ERA5 weather reanalysis, SRTM topography and 1:10,000 land-cover maps, trains LightGBM classifiers under two pseudo-absence sampling designs, tunes the decision threshold for civil-protection priorities (F2-score), explains every prediction with SHAP and serves it all in an interactive Streamlit dashboard. **ROC-AUC 0.94 · Recall 89 % at the operational threshold.**
 
