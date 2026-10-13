@@ -101,9 +101,9 @@ Conjunto de test: 1.791 registros no vistos durante el entrenamiento.
 
 ## Cómo ejecutarlo
 
-### Camino A — Ver el dashboard (≈ 2 minutos)
+### Camino A — Ver el dashboard
 
-El repositorio incluye los modelos entrenados (`lgbm_model.pkl`, `lgbm_model_altB.pkl`) y las matrices de entrenamiento y test de ambas alternativas en `datos/processed/`. No hace falta descargar datos ni reentrenar.
+La forma más rápida es la [demo en vivo](https://incendios-valencia.streamlit.app/). Para ejecutarlo en local: el repositorio incluye los modelos entrenados (`lgbm_model.pkl`, `lgbm_model_altB.pkl`) y las matrices de entrenamiento y test de ambas alternativas en `datos/processed/`, así que no hace falta descargar datos ni reentrenar.
 
 ```bash
 git clone https://github.com/marcoscivera08/tfg-incendios-valencia.git
@@ -130,7 +130,7 @@ Reproduce todo el experimento: descarga, enriquecimiento, entrenamiento y export
 1. **Datos de partida en `datos/raw/`** (no se incluyen por tamaño y licencia):
    - Registro EGIF de incendios forestales 2010–2022 — [datos abiertos del MITECO](https://www.miteco.gob.es/es/biodiversidad/temas/incendios-forestales/estadisticas-datos.html)
    - Cartografía COSCV 2024 — [Institut Cartogràfic Valencià](https://icv.gva.es/)
-   <!-- TODO: indica aquí los nombres exactos de archivo que esperan los scripts -->
+      Archivos esperados: `datos/raw/datos_incendios.xlsx` y `datos/external/COScv2024.gpkg`.
 2. **API key gratuita de [AEMET OpenData](https://opendata.aemet.es/centrodedescargas/altaUsuario)**, guardada en `datos/APIs/api_AEMET.txt` (una sola línea con la clave). Esta ruta está en `.gitignore`.
 
 ERA5 (Open-Meteo) y SRTM (Open Topo Data) son APIs abiertas y no requieren clave.
