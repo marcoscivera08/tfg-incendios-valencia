@@ -199,5 +199,5 @@ Python · pandas · GeoPandas · pyproj · scikit-learn · LightGBM · XGBoost �
 **Marcos Civera García** — Graduado en Ciencia de Datos (Universitat de València)
 Tutor: Antonio Manuel López Quílez
 
-[LinkedIn](www.linkedin.com/in/marcos-civera-garcia) · [Email](mailto:marcoscivera08@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marcos-civera-garcia) · [Email](mailto:marcoscivera08@gmail.com)
 <!-- Rellena tus enlaces. Si subes la memoria en PDF a docs/, enlázala aquí: [Memoria completa (PDF)](docs/memoria_TFG.pdf) -->
