@@ -8,9 +8,11 @@ Trabajo Fin de Grado en Ciencia de Datos · Universitat de València (ETSE) · C
 ![LightGBM](https://img.shields.io/badge/LightGBM-2C6E49)
 ![SHAP](https://img.shields.io/badge/SHAP-explicabilidad-FF0051)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A) 
 
 
+
+🌐 **Pruébalo en vivo:** 
 [![Abrir demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://incendios-valencia.streamlit.app/)
 
 <img width="1915" height="911" alt="dashboard_vista_general" src="https://github.com/user-attachments/assets/7fd5d6a6-3f6f-42aa-9dec-06f34fd10550" /> 
